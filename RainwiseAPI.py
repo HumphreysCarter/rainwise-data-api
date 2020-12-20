@@ -1,3 +1,11 @@
+"""
+RainWise Python API
+
+Copyright (c) 2020, Carter J. Humphreys
+All rights reserved.
+"""
+
+
 import json
 import pandas as pd
 
