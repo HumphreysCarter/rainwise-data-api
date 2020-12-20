@@ -1,5 +1,5 @@
 # RainWise Python API
-A simple Python interface to the RainWise Public Data API for accesing current conditions and recent data of [RainWise](https://www.rainwise.com/) stations.
+A simple Python interface to the RainWise Public Data API for accessing current conditions and recent data of [RainWise](https://www.rainwise.com/) stations.
 
 
 ## Dependencies
